@@ -23,5 +23,6 @@ Prepárate para un viaje salvaje y fascinante - y todo comienza con un qubit.
 Queremos agradecer el trabajo realizado bajo el programa “IARPA Multi-Qubit Coherent Operations”, el programa “Logical Qubits”, el programa “LPS Quantum Characterization Validation & Verification” y el “IBM Research Frontiers Institute”. La investigación realizada en esos programas ha contribuido a hacer posible esta Experiencia Cuántica.
 
 Gracias
+
 Jay Gambetta, Jerry Chow, and the IBM Quantum team
  
